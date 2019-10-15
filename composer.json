@@ -1,0 +1,17 @@
+{
+    "name": "joyas/hello-composer",
+    "description": "Hola mundo en composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joyas",
+            "email": "joeleb70@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "joyas\\hello\\":"src/"
+        }
+    }
+}
