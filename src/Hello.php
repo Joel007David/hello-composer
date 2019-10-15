@@ -7,4 +7,9 @@ class Hello
 	{
 		echo "Hello $m \n";
 	}
+
+	public function mundo()
+	{
+		echo "Hello WORLD \n";
+	}
 }
