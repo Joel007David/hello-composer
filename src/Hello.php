@@ -12,4 +12,9 @@ class Hello
 	{
 		echo "Hello WORLD \n";
 	}
+
+	public function xd()
+	{
+		echo "xddddddddddddddddddddd \n";
+	}
 }
